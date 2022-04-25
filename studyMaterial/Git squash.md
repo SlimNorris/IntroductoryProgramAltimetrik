@@ -9,24 +9,23 @@ Pre-Merge:
          /
     D---E---F---G master
 
-
 Post-Merge:
-	      A---B---C topic
-	     /         \
+
+          A---B---C topic
+         /         \
     D---E---F---G---H master
 
-
 Post-Rebase:
-                  A'--B'--C' topic
+
+                  A'---B'---C' topic
                  /
     D---E---F---G master
-
 
 Post-Rebase and Squash:
-                   A* topic
+
+                  A* topic
                  /
     D---E---F---G master
-
 
 A* equals to A'--B'--C'
 
