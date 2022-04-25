@@ -22,4 +22,5 @@ would be:
         D---E---F---G master
 
 Bibliography: https://git-scm.com/docs
+
 https://medium.com/swlh/squash-and-rebase-git-basics-5cb1be1e0dac

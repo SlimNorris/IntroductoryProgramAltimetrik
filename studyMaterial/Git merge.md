@@ -16,4 +16,5 @@ Then "git merge topic" will replay the changes made on the topic branch since it
     D---E---F---G---H master
 
 Bibliography: https://git-scm.com/docs
+
 https://medium.com/swlh/squash-and-rebase-git-basics-5cb1be1e0dac
