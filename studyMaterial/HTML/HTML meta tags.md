@@ -1,4 +1,4 @@
-The <meta> tag defines metadata about an HTML document. Metadata is data (information) about data.
+<!-- The <meta> tag defines metadata about an HTML document. Metadata is data (information) about data.
 
 <meta> tags always go inside the <head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
 
@@ -13,7 +13,7 @@ Example:
   <meta name="keywords" content="Documentation, BFEDA">
   <meta name="author" content="Brandon Islas">
   <meta name="viewport" content="width=device-width,   initial-scale=1.0">
-</head>
+</head> -->
 
 Bibliography: 
 https://www.w3schools.com/html/html_intro.asp

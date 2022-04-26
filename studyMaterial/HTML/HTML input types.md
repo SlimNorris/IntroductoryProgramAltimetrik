@@ -1,6 +1,6 @@
 Here are the different input types you can use in HTML:
 
-<input type="button"> Defines a simple push button, which can be programmed to perform a task on an event.
+<!-- <input type="button"> Defines a simple push button, which can be programmed to perform a task on an event.
 <input type="checkbox"> Defines checkboxes which allow select multiple options form.
 <input type="color"> Defines checkboxes which allow select multiple options form.
 <input type="date"> Defines an input field for selection of date.
@@ -21,7 +21,7 @@ Here are the different input types you can use in HTML:
 <input type="text"> 	Defines a one-line text input field.
 <input type="time"> Define a control for entering a time (no time zone).
 <input type="url"> Defines a field for entering URL.
-<input type="week"> Defines a field to enter the date with week-year, without a time zone.
+<input type="week"> Defines a field to enter the date with week-year, without a time zone. -->
 
 Bibliography: 
 https://www.w3schools.com/html/html_intro.asp
