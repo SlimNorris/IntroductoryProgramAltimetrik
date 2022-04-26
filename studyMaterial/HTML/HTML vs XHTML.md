@@ -6,15 +6,15 @@ XHTML was developed to make HTML more extensible and flexible to work with other
 
 The Most Important Differences from HTML:
 
-<!-- - <!DOCTYPE> is mandatory
-- The xmlns attribute in <html> is mandatory
-- <html>, <head>, <title>, and <body> are mandatory
+- <*!DOCTYPE> is mandatory
+- The xmlns attribute in <*html> is mandatory
+- <*html>, <*head>, <*title>, and <*body> are mandatory
 - Elements must always be properly nested
 - Elements must always be closed
 - Elements must always be in lowercase
 - Attribute names must always be in lowercase
 - Attribute values must always be quoted
-- Attribute minimization is forbidden -->
+- Attribute minimization is forbidden 
 
 
 Bibliography: 
